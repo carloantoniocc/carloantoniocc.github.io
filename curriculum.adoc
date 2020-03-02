@@ -1,12 +1,36 @@
-:toc: macro
-:toc-title: Tabla de Contenidos
-:toclevels: 99
+:doctype: book
+:firstname: Carlos C.
+:lastname: Cornejo
 
-# Título del Documento
+Dirección. +
+Comuna - Santiago Chile   carloantoniocc@gmail.como
 
-toc::[]
+# Carlos Antonio Cornejo Cordero
 
-## Seccion 1
-## Seccion 2
-## Seccion 3
+## Extracto
+****
+Profesional Titulado de Ingeniería en Computación e Informática +
+Universidad de Ciencias de la Informática.
 
+Titulado de Técnico de Nivel Superior en Análisis de Sistemas +
+ITC - Instituto Tecnológico de Chile +
+
+Participa en equipos multidisciplinarios en proyectos de diferentes envergaduras como la implementación de la *Nueva Intranet para el ejercito de Chile, NUevo portal de pagos Unired, Microsoft Dynamic CRM para sus modulos de PAgo de Proveedores, Fiscalizacion, Buzon ciudadano, SIstemas de bonos en competencias laborales y programa +capaz en Sence, Creador de Sistema de Prospecto banca personas y del sistema Visitas Comercialespara Banco Internacional, Sistema de Mapit Procesos y Riesgo Operacional para Nexus*, como tambien genera propuestas e iniciativas, levantamiento de requerimientos y procesos, riesgos, impactos, factibilidad y optimizacion de las operaciones, interactua con las areas de Ingenieria, control de gestion, comercial, control de cambio, PMO, calidad e infraestructura.
+****
+
+
+## Experiencia
+## Antecedentes Académicos
+## Tecnologías
+
+Sistemas Operativos::
+  Windows:::
+  Linux:::
+
+Cloud Providers::
+  IaaS:::
+    . Amazon EC2
+    . Digital Ocean
+
+## Cursos y Certificaciones
+## Datos Personales
