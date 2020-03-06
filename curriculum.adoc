@@ -3,7 +3,9 @@
 :lastname: Cornejo
 
 Dirección. +
-Comuna - Santiago Chile   carloantoniocc@gmail.como
+Comuna - Santiago Chile
+carloantoniocc@gmail.como
+GitHub github.com/carloantoniocc
 
 # Carlos Antonio Cornejo Cordero
 
@@ -33,6 +35,21 @@ Cloud Providers::
   IaaS:::
     . Amazon EC2
     . Digital Ocean
+
+Sistema de Control de Versiones (VCS)::
+    . Git
+
+Aplicaciones Distribuidas::
+    . Laravel
+  
+Inteligencia Artificial::
+    . Python
+
+Automatización::
+    .
+
+
+
 
 ## Cursos y Certificaciones
 ## Datos Personales
