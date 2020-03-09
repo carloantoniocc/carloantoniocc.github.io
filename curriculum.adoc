@@ -3,7 +3,7 @@
 :lastname: Cornejo
 
 Dirección. +
-Comuna - Santiago Chile
+Comuna - Santiago de Chile
 carloantoniocc@gmail.como
 GitHub github.com/carloantoniocc
 
@@ -41,7 +41,7 @@ Sistema de Control de Versiones (VCS)::
 
 Aplicaciones Distribuidas::
     . Laravel
-  
+
 Inteligencia Artificial::
     . Python
 
